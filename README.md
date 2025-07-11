@@ -5,7 +5,7 @@ Set up a firewall using UFW to:
 
 ---
 
-## 🛠Tools Used
+## Tools Used
 - UFW (Uncomplicated Firewall)
 - Kali Linux 2023+
 
