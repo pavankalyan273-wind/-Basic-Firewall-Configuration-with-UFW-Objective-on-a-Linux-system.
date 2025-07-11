@@ -29,3 +29,11 @@ sudo ufw enable
 
 # 5. Check UFW status
 sudo ufw status
+
+------
+
+## Firewall Rules Applied
+| Port | Protocol | Action | Description        |
+| ---- | -------- | ------ | ------------------ |
+| 22   | TCP      | ALLOW  | Secure Shell (SSH) |
+| 80   | TCP      | DENY   | Web Traffic (HTTP) |
